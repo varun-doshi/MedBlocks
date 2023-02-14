@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/MedBlocks/static/css/main.b3e2ba92.css",
-    "main.js": "/MedBlocks/static/js/main.02aaf3e0.js",
+    "main.js": "/MedBlocks/static/js/main.6dd723da.js",
     "static/media/logo.png": "/MedBlocks/static/media/logo.4a677a3cc10c2aa96974.png",
     "index.html": "/MedBlocks/index.html"
   },
   "entrypoints": [
     "static/css/main.b3e2ba92.css",
-    "static/js/main.02aaf3e0.js"
+    "static/js/main.6dd723da.js"
   ]
 }
